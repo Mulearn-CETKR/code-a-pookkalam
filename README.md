@@ -29,3 +29,6 @@ https://forms.gle/8YMkjWfnnXiPqctt5
 4. Use any coding language or platform you love! 💻
 5. Original work only - no plagiarism allowed! 📚
 6. Theme: Spirit of Onam
+<div align="center">
+  <img src="posteR.jpg" alt="poster" width="800">
+</div>
