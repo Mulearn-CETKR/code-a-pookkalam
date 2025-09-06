@@ -35,7 +35,7 @@ https://forms.gle/8YMkjWfnnXiPqctt5
 
 2. Clone Your Fork
    
-   On your computer, run git clone https://github.com/ blablabla.
+   On your computer, run `git clone https://github.com/ blablabla.`
 
 3. Add Your Project
 
